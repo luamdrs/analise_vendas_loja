@@ -1,11 +1,11 @@
 # Análise de Vendas de uma Loja Fictícia 🏬
 
 
-**Descrição do Projeto**
+## **Descrição do Projeto**
 
 _Este projeto realiza uma análise detalhada dos dados de vendas de uma loja fictícia de eletrônicos, utilizando as bibliotecas Pandas, Matplotlib e Seaborn. O objetivo é explorar e extrair insights relevantes para apoiar decisões estratégicas, como identificar os produtos mais vendidos, as categorias com maior volume de vendas e analisar tendências mensais._
 
-**Objetivos**
+## **Objetivos**
 
 1. Pré-processamento de Dados
 
@@ -19,7 +19,8 @@ Aplicação de métodos descritivos e agrupamentos para extrair insights relevan
 
 Criação de gráficos claros e informativos para identificar tendências e padrões.
 
-**Respostas a Perguntas-Chave**
+
+## **Respostas a Perguntas-Chave**
 
 - Quais são os 5 produtos mais vendidos?
 - Qual categoria tem o maior volume de vendas?
