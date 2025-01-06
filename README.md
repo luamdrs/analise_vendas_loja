@@ -29,6 +29,7 @@ Criação de gráficos claros e informativos para identificar tendências e padr
 
 ## Observação
 
-_Este projeto foi desenvolvido com o objetivo de praticar e fixar conceitos de análise de dados.
-Sinta-se à vontade para clonar o repositório e utilizá-lo para fins de aprendizado._ 🚀💫
+_Este projeto foi desenvolvido com o objetivo de praticar e fixar conceitos de análise de dados._
+
+> Sinta-se à vontade para clonar o repositório e utilizá-lo para fins de aprendizado. 🚀💫
 
